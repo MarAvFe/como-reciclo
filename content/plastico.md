@@ -4,8 +4,6 @@ date = 2024-06-09T03:21:04-05:00
 draft = false
 +++
 
-## Cómo Preparar tus Desechos de Plástico para el Reciclaje
-
 En nuestra comunidad, reciclar correctamente es una responsabilidad compartida. Para asegurarnos de que nuestros desechos plásticos sean procesados adecuadamente, es importante prepararlos de manera correcta antes de depositarlos en el contenedor de reciclaje. Aquí te dejamos una guía sencilla sobre cómo hacerlo.
 
 ## Pasos para Preparar tus Desechos de Plástico
@@ -44,11 +42,3 @@ Reciclar de manera efectiva ayuda a reducir la contaminación, ahorrar energía 
 
 Recuerda, ¡reciclar correctamente está en nuestras manos!
 
----
-
-**Ideas de Imágenes para Acompañar el Post**:
-1. Persona enjuagando una botella de plástico bajo el grifo.
-2. Mano retirando la etiqueta de una botella.
-3. Botella de plástico siendo aplastada.
-4. Gráfico con símbolos de reciclaje.
-5. Imagen de diferentes tipos de envases de plástico preparados para el reciclaje.
