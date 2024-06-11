@@ -10,7 +10,7 @@ Reciclar vidrio es esencial para reducir la cantidad de residuos en los verteder
 
 1. **Limpia el Vidrio**:
    - Enjuaga las botellas y frascos de vidrio para eliminar restos de comida o líquidos. Asegúrate de que estén limpios y secos antes de reciclarlos.
-   - ![Enjuagando botella de vidrio](ruta/a/imagen1.jpg)
+   - ![Enjuagando botella de vidrio](/img/vidrio-lavado.png)
 
 2. **Retira Tapas y Etiquetas**:
    - Retira las tapas y las etiquetas de los envases de vidrio. Las tapas suelen ser de metal o plástico, que se deben reciclar por separado.

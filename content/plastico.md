@@ -10,19 +10,19 @@ En nuestra comunidad, reciclar correctamente es una responsabilidad compartida. 
 
 1. **Limpia los Plásticos**:
    - Antes de reciclar cualquier envase de plástico, asegúrate de enjuagarlo bien para eliminar restos de comida o líquidos. Esto ayuda a evitar la contaminación y facilita el proceso de reciclaje.
-   - ![Limpieza de botella de plástico](ruta/a/imagen1.jpg)
+   - ![Limpieza de botella de plástico](/img/plastico-enjuague.png)
 
 2. **Retira Etiquetas y Tapas**:
    - Siempre que sea posible, retira las etiquetas y las tapas de los envases. Las tapas de plástico, aunque también son reciclables, suelen procesarse por separado.
-   - ![Retirando etiqueta de una botella](ruta/a/imagen2.jpg)
+   - ![Retirando etiqueta de una botella](/img/plastico-etiqueta.png)
 
 3. **Aplasta los Envases**:
    - Aplasta las botellas y envases de plástico para reducir su volumen. Esto no solo ahorra espacio en el contenedor de reciclaje, sino que también facilita su transporte y manejo.
-   - ![Aplastando una botella de plástico](ruta/a/imagen3.jpg)
+   - ![Aplastando una botella de plástico](/img/plastico-aplastar.png)
 
 4. **Clasifica por Tipo de Plástico**:
    - Algunos centros de reciclaje prefieren que los plásticos se clasifiquen por tipo (PET, HDPE, etc.). Verifica las instrucciones locales para asegurarte de seguir las mejores prácticas.
-   - ![Símbolos de reciclaje de plásticos](ruta/a/imagen4.jpg)
+   - ![Símbolos de reciclaje de plásticos](/img/plastico-clasificado.png)
 
 ## ¿Qué Plásticos Puedo Reciclar?
 

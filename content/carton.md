@@ -10,19 +10,19 @@ El reciclaje de cartón es una forma efectiva de reducir la cantidad de residuos
 
 1. **Limpia el Cartón**:
    - Asegúrate de que el cartón esté limpio y seco. Retira cualquier residuo de comida o líquido que pueda contaminar el material reciclable.
-   - ![Limpieza de cartón](ruta/a/imagen1.jpg)
+   - ![Limpieza de cartón](/img/carton-limpio.png)
 
 2. **Desmonta Cajas y Envases**:
    - Desmonta y aplana las cajas de cartón para ahorrar espacio en el contenedor de reciclaje. Esto facilita el transporte y el procesamiento del cartón.
-   - ![Desmontando cajas de cartón](ruta/a/imagen2.jpg)
+   - ![Desmontando cajas de cartón](/img/carton-desarmado.png)
 
 3. **Retira Elementos No Reciclables**:
    - Retira cintas adhesivas, grapas, etiquetas y otros elementos que no sean de cartón. Estos materiales pueden interferir con el proceso de reciclaje.
-   - ![Retirando cintas adhesivas de cajas](ruta/a/imagen3.jpg)
+   - ![Retirando cintas adhesivas de cajas](/img/carton-adhesivo.png)
 
 4. **Clasifica por Tipo**:
    - Clasifica el cartón según su tipo (corrugado, cartulina, etc.) si tu centro de reciclaje lo requiere. Esto puede mejorar la eficiencia del reciclaje.
-   - ![Clasificación de tipos de cartón](ruta/a/imagen4.jpg)
+   - ![Clasificación de tipos de cartón](/img/carton-tipo.png)
 
 ## ¿Qué Tipos de Cartón Puedo Reciclar?
 
